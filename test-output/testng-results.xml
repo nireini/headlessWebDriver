@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="9175" started-at="2019-08-05T06:39:35Z" finished-at="2019-08-05T06:39:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9175" started-at="2019-08-05T06:39:35Z" finished-at="2019-08-05T06:39:44Z">
+      <class name="NewTest2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:NewTest2@6b419da]" name="setUp" is-config="true" duration-ms="3381" started-at="2019-08-05T09:39:35Z" finished-at="2019-08-05T09:39:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:NewTest2@6b419da]" name="testMethod" duration-ms="4950" started-at="2019-08-05T09:39:39Z" finished-at="2019-08-05T09:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:NewTest2@6b419da]" name="tearDown" is-config="true" duration-ms="667" started-at="2019-08-05T09:39:44Z" finished-at="2019-08-05T09:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>
